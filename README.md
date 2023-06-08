@@ -42,8 +42,7 @@ There are several issues in dataset:
 ## Hypothesis Testing
 
 The result of each hypothesis:
-1. User activity varies depending on the day and city. 
-
+1. User activity varies depending on the day and city.
 **In Springfield, the total number of musics played reached its peak on Monday and Friday. On Wednesday, users barely played musics**
 **In Shelbyville, users played musics more often on Wednesday.**
 **Overall, users activities on Monday and Friday are lesser than Wednesday**
