@@ -49,13 +49,14 @@ The result of each hypothesis:
 **In Shelbyville, users played musics more often on Wednesday.**
 **Overall, users activities on Monday and Friday are lesser than Wednesday**
 **So, it is correct that user activity varies depending on the day and city.**
+
 2. On Monday mornings, residents of both cities tune into a different genre. This also applies on Friday nights.
 
 **Users that live in Springfield or live in Shelbyville mostly listen to the same genre as the top 5 most popular genres of music are mostly the same. The top genre in both cities is Pop.
 BUT, due to many missing values in the data which user live in Shelbyville, 'unknown' become the 10th most popular genre.**
 **This will cause bias in the hypothesis result**
 
-4. Listeners in 2 cities have different preferences. In Springfield, users prefer pop music, while in Shelbyville rap music has more fans.
+3. Listeners in 2 cities have different preferences. In Springfield, users prefer pop music, while in Shelbyville rap music has more fans.
 
 **Pop music is the most popular genre not only in Springfield, but also in Shelbyville. However, rap music is not included in the top 5 most popular in either Springfield or Shelbyville. So, the hypothesis is not correct for the music preference in Shelbyville**
 
