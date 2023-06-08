@@ -1,6 +1,7 @@
 # Project Description
 
 Hello there :wave:
+
 Hope this project finds you well!
 
 In this project, I will compare the music preferences of users in 2 cities (let say Springfield and Shelbyville). I will test the below hypotheses and compare user behaviour in the 2 cities.
