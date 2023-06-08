@@ -48,7 +48,6 @@ The result of each hypothesis:
 **In Shelbyville, users played musics more often on Wednesday.**
 **Overall, users activities on Monday and Friday are lesser than Wednesday**
 **So, it is correct that user activity varies depending on the day and city.**
-> Remarks: I used the data on days 'Monday', 'Wednesday' and 'Friday'. After that, I compared the total played songs in each city.
 2. On Monday mornings, residents of both cities tune into a different genre. This also applies on Friday nights.
 
 **Users that live in Springfield or live in Shelbyville mostly listen to the same genre as the top 5 most popular genres of music are mostly the same. The top genre in both cities is Pop.
